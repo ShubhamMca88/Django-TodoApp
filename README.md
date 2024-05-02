@@ -1,13 +1,13 @@
 <!-- Intro  -->
-<h1 align="center">
-        <samp>&gt; Hi,I'm
-                <b><a target="_blank" href="https://github.com/ShubhamMca88">Shubham</a></b>
+<h3 align="center">
+        <samp><h1> Hi,I'm 
+                <b><a target="_blank" href="https://github.com/ShubhamMca88">Shubham</a></b></h1>
         </samp>
-</h1>
+</h3>
 
 
 <p align="center">
-        <samp>「 Hi, I'm a Full stack python web developer from Meerut , India. Python Programing and proficient knowledge of Django Web development , I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 」
+        <samp> Hi, I'm a Full stack python web developer from Meerut , India. Python Programing and proficient knowledge of Django Web development , I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 
         </samp>
 </p>
 
